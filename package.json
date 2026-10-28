@@ -1,0 +1,19 @@
+{
+  "name": "aula_1",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^26.3.0",
+    "@vitest/coverage-v8": "^4.1.11",
+    "install": "^0.13.0",
+    "tsx": "^4.23.12",
+    "typescript": "^7.0.2",
+    "typescriptnpm": "^1.0.1",
+    "vitest": "^4.1.11"
+  }
+}
